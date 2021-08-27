@@ -1,0 +1,9 @@
+{
+  "name": "landing_page",
+  "version": "1.0.0",
+  "description": "project landing page",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  }
+}
